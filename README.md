@@ -20,7 +20,7 @@ You also have to be careful : the Kinect must be in front of the screen you use.
 to move the Kinect, you'll have to calculate a matrix that will allow you to process the video 
 as if the camera was facing the screen
 
-Finally, you can also use the PCL library to run such an apllication (http://pointclouds.org/). That is what we first try to use but this library requires a very powerful computer : we determined the equation of the plan in which the screen was on each frame.
+Finally, you can also use the PCL library to run such an application (http://pointclouds.org/). That is what we first try to use but this library requires a very powerful computer : we determined the equation of the plan in which the screen was on each frame.
 Because of the weight of this operation, we had to give up this solution. 
 
 Don't hesitate to contact me if you want more informations : sebastien.demarbre@gmail.com
