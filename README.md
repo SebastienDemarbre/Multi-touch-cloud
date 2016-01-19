@@ -2,8 +2,11 @@
 Multi-touch application using Kinect
 
 To run this code you need :
+
 1) Kinect
+
 2) the Openframeworks library (http://openframeworks.cc/) to handle the Kinect
+
 3)the OpenCV library (http://opencv.org/) to handle the video (blob detection, ...) 
 
 
