@@ -7,7 +7,7 @@ To run this code you need :
 3)the OpenCV library (http://opencv.org/) to handle the video (blob detection, ...) 
 
 
-What is a blob? It is a groupe of points which has the same properties. 
+What is a blob? It is a group of points which has the same properties. 
 In this code the property we used to create blobs is the depth. 
 In fact, as you can see in the Youtube demonstration video (https://www.youtube.com/watch?v=-FTTZp7G9fs) , 
 we applied a filter on the video recorded by the Kinect to keep the points 
